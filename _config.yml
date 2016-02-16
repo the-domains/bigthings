@@ -1,0 +1,11 @@
+layout_spectrum: 0.4301075
+color:
+  saturation: 0.6326165
+  lightness: 1
+  brandStrength: 0.8315412
+  brandColors:
+    - '#000000'
+    - '#2E2E2E'
+  rhythmicContrast: 0.7262071
+typography_spectrum: 0.1111111
+name: BigThings
