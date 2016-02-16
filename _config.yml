@@ -1,11 +1,23 @@
-layout_spectrum: 0.4301075
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.6326165
+  brandStrength: 0.8254638
   lightness: 1
-  brandStrength: 0.8315412
   brandColors:
     - '#000000'
     - '#2E2E2E'
   rhythmicContrast: 0.7262071
 typography_spectrum: 0.1111111
+layout_spectrum: 0.4301075
 name: BigThings
