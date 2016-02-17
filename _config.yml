@@ -4,20 +4,20 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.4317043
+  saturation: 0.7944862
   brandStrength: 0.4699248
-  lightness: 0
+  lightness: 0.3013785
   brandColors:
     - '#000000'
     - '#2E2E2E'
-  rhythmicContrast: 0.7268171
+  rhythmicContrast: 0.1453634
 typography_spectrum: 0.4016291
-layout_spectrum: 0.05075188
+layout_spectrum: 1
 name: BigThings
