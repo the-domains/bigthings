@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BigThings]]></title>
         <description><![CDATA[BigThings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bigthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 20:42:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 16:50:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bigthings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BHTV]]></title>
+            <description><![CDATA[<article><h1>BHTV</h1><p>Stylish 4 Bedroom home on pleasant Parkside Drive in the popular Uplands district near Bradley Park. Features include high ceilings and hardwood floors throughout the main level, a wide foyer with open staircase, 3 well-sized bedrooms on the upper level and an attractively remodeled master suite on the loft level with huge walk-in closet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73d3b7066b15111832dcf2dc1c7847886f8db352.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bigthings/bhtv/index.html</link>
+            <guid isPermaLink="false">743000b8-3936-4e84-b8e0-a169d639eaa9</guid>
+            <pubDate>Wed, 17 Feb 2016 16:50:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brewer's Commercial]]></title>
-            <description><![CDATA[<article><h1>Brewer's Commercial</h1><p>This is ""Have A Good Time" Official Brewer's Distributing Music Video | 90 Seconds" by bigthingsmedia on Vimeo, the home for high quality...</p></article>]]></description>
-            <link>undefinedbrewers-commercial/index.html</link>
+            <description><![CDATA[<article><h1>Brewer's Commercial</h1><p>This is ""Have A Good Time" Official Brewer's Distributing Music Video | 90 Seconds" by bigthingsmedia on Vimeo, the home for high quality...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/146319795f75382c00686e47add16a877c713993.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bigthings/brewers-commercial/index.html</link>
             <guid isPermaLink="false">9dce9825-e85a-4762-bac6-82cc0c2e53c6</guid>
             <pubDate>Tue, 16 Feb 2016 20:40:58 GMT</pubDate>
         </item>
